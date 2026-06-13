@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Screenshelf</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Sat, 13 Jun 2026 07:22:09 +0100</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://screenshelf.perfectparadox.co.uk/Screenshelf-0.1.0.zip" length="8203802" type="application/octet-stream" sparkle:edSignature="UirSTS+P88KIlPNpmxuOSD/VZGpN8KgxjbNsGJITbIYYS39JInAbmt/FeA5cYBvLjvX3zPbsRtG9x3tAY83KCg=="/>
+        </item>
+    </channel>
+</rss>
