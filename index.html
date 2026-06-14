@@ -3,10 +3,10 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Screenshelf — Search the text inside your screenshots</title>
-<meta name="description" content="Screenshelf reads the text inside every screenshot with on-device OCR, so you can find that one capture by what it actually says. Drag images in from Photos or Finder, Quick Look with Space, drag results out. One-time purchase, on-device, zero telemetry. macOS 14+.">
+<title>Screenshelf — Search your screenshots, send them to Obsidian</title>
+<meta name="description" content="Screenshelf reads the text inside every screenshot with on-device OCR, so you can find that one capture by what it actually says — then turn it into a Markdown note and send it to Obsidian. Smart Collections, actionable data, menu-bar search. One-time purchase, on-device, zero telemetry. macOS 14+.">
 <meta property="og:title" content="Screenshelf — Search inside your screenshots">
-<meta property="og:description" content="On-device OCR reads every capture so you can search by what it says. Drag in from Photos or Finder, Quick Look with Space. One-time $24.99, on-device, zero telemetry.">
+<meta property="og:description" content="On-device OCR reads every capture so you can search by what it says — then export to Markdown and send it to Obsidian. One-time $24.99, on-device, zero telemetry.">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://screenshelf.perfectparadox.co.uk/og.png">
 <meta name="twitter:card" content="summary_large_image">
@@ -136,7 +136,7 @@ details.faq-item p{padding:0 0 26px;margin:0;color:#cbc7bf;font-size:16px;line-h
 <div class="scanfixed"></div>
 
 <div class="rail l"><span>Perfect Paradox Ltd · NI739317</span></div>
-<div class="rail r"><span>Screenshelf · v0.1.2 · macOS 14+</span></div>
+<div class="rail r"><span>Screenshelf · v0.1.3 · macOS 14+</span></div>
 
 <nav>
   <div class="brand">PERFECT&nbsp;PARADOX</div>
@@ -223,6 +223,10 @@ details.faq-item p{padding:0 0 26px;margin:0;color:#cbc7bf;font-size:16px;line-h
 <div class="cell"><div class="demo"><div class="d-thumbs"><span class="d-th hit"><i></i><i></i></span><span class="d-tag" style="margin:0 0 0 8px">&rarr; Mail · Finder · chat</span></div></div><div class="n">06</div><div><h3>Drag results<br>back out</h3><p>Found the one you need? Drag it straight from Screenshelf into Mail, Finder or a chat. No exporting, no save dialog &mdash; just drag and drop.</p></div></div>
 <div class="cell"><div class="demo"><div class="d-menubar"><span class="d-badge">indexing</span></div><div class="d-row"><span class="d-tag" style="margin:0">New capture</span><span class="d-chk">&#10003;</span></div></div><div class="n">07</div><div><h3>Indexed the<br>moment you snap</h3><p>Screenshelf watches your screenshots folder and indexes new captures in real time, automatically. Take a shot now and search its text seconds later.</p></div></div>
 <div class="cell"><div class="demo"><div class="d-row" style="justify-content:center"><span class="d-tag" style="margin:0">$24.99 once</span><span class="d-chk">&#10003;</span></div></div><div class="n">08</div><div><h3>Pay once,<br>keep it</h3><p>One-time purchase, no subscription. Free updates within the major version, on every Mac you own.</p></div></div>
+<div class="cell"><div class="demo"><div class="d-row"><span class="d-ico" style="background:linear-gradient(135deg,#A78BFA,#7C3AED)"></span><span class="d-name">capture.md &rarr; Obsidian</span><span class="d-chk">&#10003;</span></div></div><div class="n">09</div><div><h3>Send to<br>Obsidian</h3><p>Turn any capture into a Markdown note &mdash; metadata, an on-device description and the full OCR text &mdash; and send it straight to your Obsidian vault. From capture to knowledge.</p></div></div>
+<div class="cell"><div class="demo"><div class="d-stack"><span class="d-line a"></span><span class="d-line b"></span><span class="d-line c"></span></div><span class="d-chk" style="margin-left:10px">&#10003;</span></div><div class="n">10</div><div><h3>Actionable<br>data</h3><p>Screenshelf spots the links, emails, phone numbers and IBANs inside a capture and lets you copy any of them with a single click. Detected on-device, never uploaded.</p></div></div>
+<div class="cell"><div class="demo"><div class="d-thumbs"><span class="d-th hit"><i></i><i></i></span><span class="d-tag" style="margin:0 0 0 8px">Receipts · Code · Chats</span></div></div><div class="n">11</div><div><h3>Smart<br>Collections</h3><p>Your library groups itself by what's in each capture &mdash; receipts, code, chats, websites, documents &mdash; with a sidebar of filters. No tagging, no folders to maintain.</p></div></div>
+<div class="cell"><div class="demo"><div class="d-menubar"><span class="d-badge">&#9906; search</span></div><div class="d-search" style="width:78%"><span class="mag">&#9906;</span><span class="q">find a capture</span><span class="cur"></span></div></div><div class="n">12</div><div><h3>Search from<br>the menu bar</h3><p>Look inside your screenshots straight from the macOS menu bar &mdash; type a word, hit a result &mdash; without ever opening the main window.</p></div></div>
 </div></div></section>
 
 <section class="cmp"><div class="cmp-wrap"><div class="sec-label">// How it compares</div>
@@ -245,6 +249,8 @@ details.faq-item p{padding:0 0 26px;margin:0;color:#cbc7bf;font-size:16px;line-h
 <details class="faq-item"><summary>How does the search actually work?</summary><p>When you add a screenshot, Screenshelf runs on-device OCR (Apple's Vision framework) to read the text inside the image, then indexes it alongside the filename. Search any word that appears on screen and the matching captures come straight up — no cloud, no AI subscription.</p></details>
 <details class="faq-item"><summary>Can I add screenshots from the Photos app?</summary><p>Yes. Drag images straight from the macOS Photos app onto Screenshelf — and the same works from Finder or any other app. Each one is copied into your shelf and indexed locally with on-device OCR, so it's searchable by its text in seconds. And once a capture is in, you can drag it back out into Mail, Finder or a chat without exporting.</p></details>
 <details class="faq-item"><summary>Can I preview a screenshot without opening it?</summary><p>Yes. Select any capture and press Space for a full-size Quick Look preview, exactly like in Finder — a native panel that lets you confirm it's the right one without launching another app. Press Space again to close it.</p></details>
+<details class="faq-item"><summary>Can I turn screenshots into Markdown notes / send them to Obsidian?</summary><p>Yes — it's the heart of v0.1.3. Pick any capture and Screenshelf turns it into a clean Markdown note: metadata, a short description generated on-device, and the full OCR text. Send it straight to your Obsidian vault, ready to link and search alongside the rest of your knowledge.</p></details>
+<details class="faq-item"><summary>Does the AI description leave my Mac?</summary><p>No. The description, the OCR text and the detected links, emails, phone numbers and IBANs are all generated 100% on-device — nothing is uploaded, and the app makes no network calls for your content. Your captures stay on your Mac.</p></details>
 <details class="faq-item"><summary>Which languages does the OCR recognise?</summary><p>It uses Apple's built-in text recognition, which handles English, Spanish and a wide range of other Latin-script languages out of the box. It reads both printed and on-screen UI text inside your captures.</p></details>
 <details class="faq-item"><summary>Where is the index stored?</summary><p>In a private local database on your Mac, locked down with strict file permissions. The index — and the recognised text in it — never leaves your machine.</p></details>
 <details class="faq-item"><summary>What about my privacy? My screenshots have sensitive data.</summary><p>That's exactly why Screenshelf is 100% on-device. Screenshots often contain passwords, bank details and private messages — none of that, and none of the text OCR reads from it, is ever uploaded anywhere. The app makes no network calls for your content at all.</p></details>
