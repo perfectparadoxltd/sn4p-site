@@ -3,43 +3,13 @@
     <channel>
         <title>Screenshelf</title>
         <item>
-            <title>0.1.3</title>
-            <pubDate>Sun, 14 Jun 2026 21:56:57 +0100</pubDate>
+            <title>0.1.4</title>
+            <pubDate>Thu, 18 Jun 2026 06:47:39 +0100</pubDate>
             <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
+            <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://screenshelf.perfectparadox.co.uk/Screenshelf-0.1.3.zip" length="8426373" type="application/octet-stream" sparkle:edSignature="tJE/XW+lvSj3zra94pXr6m89ObLVOiYKuvfbKRN+n4CfqD4vMds9HxMjtUoIgAdStwSThiC+q60v11Aj8vJIDg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://screenshelf.perfectparadox.co.uk/Screenshelf4-3.delta" sparkle:deltaFrom="3" length="213894" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="HhTbEp9ieGl26cXX/1XGEFHVCm2hUd3Fg0kMQj3OSaB2Z/gdzvIHFxQj9aGI23/sJwyYiPiBXbVQ8q7N6vnyAw=="/>
-                <enclosure url="https://screenshelf.perfectparadox.co.uk/Screenshelf4-2.delta" sparkle:deltaFrom="2" length="236878" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="LhguqrXqW4No4aOoBAEwjQBvVjo5Julep8lpXopDm2oj1cSy3s7VlUOT57sgjO7Rad1KlmHl9AilbUYv8jwNAw=="/>
-                <enclosure url="https://screenshelf.perfectparadox.co.uk/Screenshelf4-1.delta" sparkle:deltaFrom="1" length="273130" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="3uiwA0AxmC4XgEG0qURm/l3fCkwdc6bXt+rpQBXb7aPq7GAhGff+FKvOlcR5GAe7trhI4+DpEbC+FPT96Um+Aw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.1.2</title>
-            <pubDate>Sun, 14 Jun 2026 17:40:07 +0100</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://screenshelf.perfectparadox.co.uk/Screenshelf-0.1.2.zip" length="8288035" type="application/octet-stream" sparkle:edSignature="A2lgkXJ5fS62X0gzWJ4dmvoqr9QF909bvISneTwqjOGlvCHiyaxpBALPe1sW7We2pYTaPIfO4beIQQ2FEf5zBQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://screenshelf.perfectparadox.co.uk/Screenshelf3-2.delta" sparkle:deltaFrom="2" length="96006" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="NHt1rmSnz8jNNV/S6xkIsggWmv0AbF0Il7IlOSCSYsZVPkeTjRcjsH0rYROpXk+YQzKibiBUzqYwq8nA+92JDg=="/>
-                <enclosure url="https://screenshelf.perfectparadox.co.uk/Screenshelf3-1.delta" sparkle:deltaFrom="1" length="146710" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gos/fP4c2vaHt7iu9+qyyb5FjL3B/gNX7YrxPWG2y5VowSpvh3z/ZYPT1zdQmM9W0kHVcTavIwsswRQKEsBlCQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.1.1</title>
-            <pubDate>Sun, 14 Jun 2026 15:48:07 +0100</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://screenshelf.perfectparadox.co.uk/Screenshelf-0.1.1.zip" length="8263406" type="application/octet-stream" sparkle:edSignature="UCWM6z3fIYl/WjeqwP/CMDBbgVpId1jByUnB4QdCG/5JUMr1ZpP6jD61glYP7dXsCEU+hjai6AqoQYO0qd8sBw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://screenshelf.perfectparadox.co.uk/Screenshelf2-1.delta" sparkle:deltaFrom="1" length="118794" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="rTeoKXNAnGfXTBzR5ht7Pe/HYVH5N7A5SoR5CCWX450Xhqa6f3muPN4Q3ULM7yv2VtokAAPlRbF7UpYaN38rDw=="/>
-            </sparkle:deltas>
+            <enclosure url="https://screenshelf.perfectparadox.co.uk/Screenshelf-0.1.4.zip" length="8428562" type="application/octet-stream" sparkle:edSignature="2rSlrIYezWkfsaq/RJ3NuJX5WHlbAUSo/NFnR1ZtmxYp0p79Zksudqyd5g/lFTb9mDlL58yczgjIvN9BD2S3Dg=="/>
         </item>
     </channel>
 </rss>
