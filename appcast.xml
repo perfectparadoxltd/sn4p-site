@@ -3,13 +3,13 @@
     <channel>
         <title>Screenshelf</title>
         <item>
-            <title>0.1.5</title>
-            <pubDate>Sun, 21 Jun 2026 23:47:58 +0100</pubDate>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
+            <title>0.1.6</title>
+            <pubDate>Mon, 22 Jun 2026 09:26:23 +0100</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>0.1.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://screenshelf.perfectparadox.co.uk/Screenshelf-0.1.5.zip" length="8456298" type="application/octet-stream" sparkle:edSignature="1z8vMxTnfuGnmDqbr2LdrR0VAPAxBc3RBfVmJgLJQs5eu/I3ps+BKVXkghFJUHmKu6IgDhMBMvmLkNdteekMAw=="/>
+            <enclosure url="https://screenshelf.perfectparadox.co.uk/Screenshelf-0.1.6.zip" length="8472527" type="application/octet-stream" sparkle:edSignature="KJWgPiFQWRd7pnlYK7CmbCm/U+dhC9vtmN4NcsVunIcwU5BwLjVi+QjQpFOoifgG3a8Nd5Qjl2fTfu+ym9rHAQ=="/>
         </item>
     </channel>
 </rss>
