@@ -186,6 +186,7 @@ window.I18N = {
     "more.castly": "Transform text as you paste",
     "more.lightcap": "10-second screen GIFs",
     "more.scrubd": "Clean metadata before you share",
+    "more.orthoframe": "Sort clinic photos into ABO sheets",
 
     "footer.copy": "© 2026 Perfect Paradox Ltd · NI739317",
     "footer.privacy": "Privacy",
@@ -359,6 +360,7 @@ window.I18N = {
     "more.castly": "Transforma el texto al pegar",
     "more.lightcap": "GIFs de pantalla de 10 segundos",
     "more.scrubd": "Limpia los metadatos antes de compartir",
+    "more.orthoframe": "Ordena fotos clínicas en hojas ABO",
 
     "footer.copy": "© 2026 Perfect Paradox Ltd · NI739317",
     "footer.privacy": "Privacidad",
@@ -532,6 +534,7 @@ window.I18N = {
     "more.castly": "Transformez le texte au collage",
     "more.lightcap": "GIF d'écran de 10 secondes",
     "more.scrubd": "Nettoyez les métadonnées avant de partager",
+    "more.orthoframe": "Trie les photos cliniques en fiches ABO",
 
     "footer.copy": "© 2026 Perfect Paradox Ltd · NI739317",
     "footer.privacy": "Confidentialité",
@@ -705,6 +708,7 @@ window.I18N = {
     "more.castly": "Text beim Einfügen umwandeln",
     "more.lightcap": "10-Sekunden-Bildschirm-GIFs",
     "more.scrubd": "Metadaten vor dem Teilen säubern",
+    "more.orthoframe": "Klinikfotos in ABO-Blätter sortieren",
 
     "footer.copy": "© 2026 Perfect Paradox Ltd · NI739317",
     "footer.privacy": "Datenschutz",
@@ -878,6 +882,7 @@ window.I18N = {
     "more.castly": "Trasforma il testo mentre incolli",
     "more.lightcap": "GIF dello schermo di 10 secondi",
     "more.scrubd": "Pulisci i metadati prima di condividere",
+    "more.orthoframe": "Ordina le foto cliniche in schede ABO",
 
     "footer.copy": "© 2026 Perfect Paradox Ltd · NI739317",
     "footer.privacy": "Privacy",
@@ -1051,6 +1056,7 @@ window.I18N = {
     "more.castly": "Transforme o texto ao colar",
     "more.lightcap": "GIFs de ecrã de 10 segundos",
     "more.scrubd": "Limpe os metadados antes de partilhar",
+    "more.orthoframe": "Organiza fotos clínicas em fichas ABO",
 
     "footer.copy": "© 2026 Perfect Paradox Ltd · NI739317",
     "footer.privacy": "Privacidade",
@@ -1224,6 +1230,7 @@ window.I18N = {
     "more.castly": "貼り付け時にテキストを変換",
     "more.lightcap": "10秒の画面GIF",
     "more.scrubd": "共有前にメタデータを消去",
+    "more.orthoframe": "臨床写真を ABO シートに整理",
 
     "footer.copy": "© 2026 Perfect Paradox Ltd · NI739317",
     "footer.privacy": "プライバシー",
@@ -1397,6 +1404,7 @@ window.I18N = {
     "more.castly": "粘贴时即转换文字",
     "more.lightcap": "10 秒屏幕 GIF",
     "more.scrubd": "共享前清除元数据",
+    "more.orthoframe": "把临床照片归入 ABO 表",
 
     "footer.copy": "© 2026 Perfect Paradox Ltd · NI739317",
     "footer.privacy": "隐私",
