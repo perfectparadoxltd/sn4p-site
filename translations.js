@@ -25,6 +25,7 @@ window.I18N = {
 
   /* ===================================================================== EN */
   en: {
+    "news.0112.1": "Security update: the built-in updater moves to Sparkle 2.9.6, which fixes issues published by its developers. No other changes.",
     /* idiomas + feedback + changelog (v0.1.11) */
     "hero.langs": "8 languages",
     "marquee.5": "8 LANGUAGES",
@@ -199,6 +200,7 @@ window.I18N = {
 
   /* ===================================================================== ES */
   es: {
+    "news.0112.1": "Actualización de seguridad: el actualizador integrado pasa a Sparkle 2.9.6, que corrige fallos publicados por sus desarrolladores. Sin más cambios.",
     /* idiomas + feedback + changelog (v0.1.11) */
     "hero.langs": "8 idiomas",
     "marquee.5": "8 IDIOMAS",
@@ -373,6 +375,7 @@ window.I18N = {
 
   /* ===================================================================== FR */
   fr: {
+    "news.0112.1": "Mise à jour de sécurité : le système de mise à jour intégré passe à Sparkle 2.9.6, qui corrige des problèmes publiés par ses développeurs. Aucun autre changement.",
     /* idiomas + feedback + changelog (v0.1.11) */
     "hero.langs": "8 langues",
     "marquee.5": "8 LANGUES",
@@ -547,6 +550,7 @@ window.I18N = {
 
   /* ===================================================================== DE */
   de: {
+    "news.0112.1": "Sicherheitsupdate: Die integrierte Update-Funktion wechselt auf Sparkle 2.9.6, das von den Entwicklern veröffentlichte Probleme behebt. Keine weiteren Änderungen.",
     /* idiomas + feedback + changelog (v0.1.11) */
     "hero.langs": "8 Sprachen",
     "marquee.5": "8 SPRACHEN",
@@ -721,6 +725,7 @@ window.I18N = {
 
   /* ===================================================================== IT */
   it: {
+    "news.0112.1": "Aggiornamento di sicurezza: il sistema di aggiornamento integrato passa a Sparkle 2.9.6, che corregge problemi pubblicati dai suoi sviluppatori. Nessun'altra modifica.",
     /* idiomas + feedback + changelog (v0.1.11) */
     "hero.langs": "8 lingue",
     "marquee.5": "8 LINGUE",
@@ -895,6 +900,7 @@ window.I18N = {
 
   /* ===================================================================== PT */
   pt: {
+    "news.0112.1": "Atualização de segurança: o atualizador integrado passa para o Sparkle 2.9.6, que corrige problemas publicados pelos seus programadores. Sem outras alterações.",
     /* idiomas + feedback + changelog (v0.1.11) */
     "hero.langs": "8 idiomas",
     "marquee.5": "8 IDIOMAS",
@@ -1069,6 +1075,7 @@ window.I18N = {
 
   /* ===================================================================== JA */
   ja: {
+    "news.0112.1": "セキュリティアップデート：内蔵のアップデーターを Sparkle 2.9.6 に更新しました。開発元が公表した問題が修正されています。その他の変更はありません。",
     /* idiomas + feedback + changelog (v0.1.11) */
     "hero.langs": "8言語",
     "marquee.5": "8言語対応",
@@ -1243,6 +1250,7 @@ window.I18N = {
 
   /* ===================================================================== ZH-HANS */
   "zh-Hans": {
+    "news.0112.1": "安全更新：内置更新程序升级到 Sparkle 2.9.6，修复了其开发者公布的问题。无其他改动。",
     /* idiomas + feedback + changelog (v0.1.11) */
     "hero.langs": "8 种语言",
     "marquee.5": "8 种语言",
